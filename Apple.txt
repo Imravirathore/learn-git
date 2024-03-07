@@ -1,1 +1,1 @@
-This is Apple File, added from Git Directly
+This is Apple File, added from Git Directly, add conflicts from
